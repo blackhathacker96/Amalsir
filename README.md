@@ -78,7 +78,7 @@ $ node Amalser.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FBm7zLrvl8aD74mZvHGFFZ)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
@@ -88,7 +88,7 @@ Click WA logo to Join Support Group 👇
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Amalser_v2 or we are not responsible for your account, 
+Fl96.96_v1 or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -105,10 +105,16 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![FL96.96](https://github.com/blackhathacker96/Amalsir.png?size=100)](https://github.com/blackhathacker96/AMALSIR) 
+
+
+) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules | Deploy Error Fixed
+) 
+   
+   
+
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Computer Modifiying  as   public | Bug Fixes, Modules | Deploy Error Fixed
   </div>
     
 
