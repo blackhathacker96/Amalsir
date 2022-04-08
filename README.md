@@ -7,11 +7,11 @@
 <img src=https://i.imgur.com/w89FHm7.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/blackhathacker96/Amalsir"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/blackhathacker96/Amalsir">FL96.96'BOT</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,15 +29,15 @@ Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
+https://www.instagram.com/fl96.96
 
 
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
-
+  ### Simple recommended Method (heroku) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+
+  
+[![Run on Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
   
 ### The Hard Method
 ```js
@@ -100,7 +100,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![FL96.96](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/27733300603?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
